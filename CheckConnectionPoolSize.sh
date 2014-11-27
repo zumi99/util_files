@@ -6,18 +6,18 @@ TO_MAIL_ADDRESS="test@example.com"
 BASE_DIR=/app/xxx/batch/cplog
 
 AAA_URLS=(
-          "url1"
-          "url2"
+          "pool_check_url1"
+          "pool_check_url2"
           )
 BBB_URLS=(
-          "url3"
-          "url4"
+          "pool_check_url3"
+          "pool_check_url4"
           )
 DEV_AAA_URLS=(
-          "url5"
+          "pool_check_url5"
           )
 DEV_BBB_URLS=(
-          "url6"
+          "pool_check_url6"
           )
 
 # Parameter
